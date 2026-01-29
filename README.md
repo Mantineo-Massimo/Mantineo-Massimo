@@ -23,14 +23,12 @@ Passionate about programming and solving complex problems. My journey ranges fro
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mantineo-Massimo&layout=compact&theme=visual_studio_code&hide_border=true" />
+  <img src="https://img.shields.io/badge/Main_Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Mantineo-Massimo?label=Total%20Stars&style=for-the-badge&color=F7DF1E&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/Mantineo-Massimo/Mantineo-Massimo?label=Last%20Update&style=for-the-badge&color=BC52EE&logo=github" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Mantineo-Massimo?label=Followers&style=for-the-badge&color=007ACC" />
-  <img src="https://img.shields.io/github/stars/Mantineo-Massimo?label=Total%20Stars&style=for-the-badge&color=F7DF1E" />
-  <img src="https://img.shields.io/github/commit-activity/y/Mantineo-Massimo?label=Commits%20this%20year&style=for-the-badge&color=BC52EE" />
-</p>
+---
 
 ---
 
