@@ -25,16 +25,9 @@ Passionate about programming and solving complex problems. My journey ranges fro
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/github/stars/Mantineo-Massimo?label=Total%20Stars&style=for-the-badge&color=F7DF1E&logo=github" />
-  <img src="https://img.shields.io/github/last-commit/Mantineo-Massimo/Mantineo-Massimo?label=Last%20Update&style=for-the-badge&color=BC52EE&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Learning-success?style=for-the-badge&logo=github" />
 </p>
 
----
-
----
-
-### 🚀 Featured Projects
-* **[Main Project Name]**: *Briefly describe what it does and the tech stack used.*
-* **Algorithms & Data Structures**: A collection of implementations and programming logic to strengthen software engineering foundations.
 
 ---
 
